@@ -1,0 +1,13 @@
+- Flask
+- MVC (Model - View - Controller)
+    Маршруты (Routes)
+    Контролллер (Controller)
+    Вид (View)
+    Модель (Model)
+
+- WSGI (Web Server Gateway Interface) - стандатизированный протокол
+- Werkzeug (Библиотека, сервер в основе Flask)
+- MVT (Model - View - Template)
+- Flask(Работа с запросами)
+- Flask(Validators)
+- Проработать валидаторы Flask!

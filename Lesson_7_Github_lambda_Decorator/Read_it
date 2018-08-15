@@ -1,0 +1,25 @@
+*ТЕОРИЯ
+**Менеджеры контекста
++ Python with Context Managers: https://jeffknupp.com/blog/2016/03/07/python-with-context-managers/
++ contextlib: https://docs.python.org/3/library/contextlib.html и https://pymotw.com/2/contextlib/
+
+**Декораторы
++ Декораторы: http://thecodeship.com/patterns/guide-to-python-function-decorators/
++ functools.wraps: https://docs.python.org/2/library/functools.html
++ staticmethod vs classmethod: http://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python
++ Декораторы с аргументами: http://scottlobdell.me/2015/04/decorators-arguments-python/
+
+**Генераторы
++ Генераторы: https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
++ Зачем использовать генераторы? http://stackoverflow.com/questions/102535/what-can-you-use-python-generator-functions-for
++ Как работает yield? https://habrahabr.ru/post/132554/
++ Что такое yield from? http://old.pynsk.ru/posts/2015/Sep/21/sintaksis-python-yield-from/#.WfW6u9NJaRs
+
+**Функциональные возможности
++ lambdas: http://www.secnetix.de/olli/Python/lambda_functions.hawk
++ Что такое late-binding: http://quickinsights.io/python/python-closures-and-late-binding/
++ Замыкания: http://www.shutupandship.com/2012/01/python-closures-explained.html
+
+**Другое
++ Дата и время: https://pythonworld.ru/moduli/modul-datetime.html
++ Списковые выражения: http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/

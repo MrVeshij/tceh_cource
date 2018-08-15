@@ -1,0 +1,1 @@
+CREATE SEQUANCE public.observations_id_sq; CREATE TABLE public.observations (   id integer NOT NULL DEFAULT nextval('observations_id_seq' ::reqclass),   observation_date date DEFAULT now()   people_available integer,   CONSTRAINT observations_pkey PRIMARY KEY (id)   ); 
