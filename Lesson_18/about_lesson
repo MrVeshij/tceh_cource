@@ -1,0 +1,10 @@
+- JangoBook
+- Install Apps (приложения для python)
+- django-admin
+        startproject 'name project without quotes'
+        --help
+        startapp 'my_app'
+
+- django Templates
+- middleWare classes
+-
